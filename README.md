@@ -3,6 +3,8 @@
 
 Inflation index year 2010 = 100
 
+![Figure 1 - Displaying percentage change in house price vs percentage change in median annual salary](https://github.com/Cyclip/housePrices/blob/main/images/Figure_1.png?raw=true)
+
 ## Process
 - Load inflation data
   - Used to adjust nominal values
